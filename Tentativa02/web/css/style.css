@@ -1,0 +1,211 @@
+*{
+    
+    
+}
+.dir_hub,.esq_hub{
+    text-align: center;
+    
+}
+.dir_hub{
+    position:relative; 
+    border:05px solid #000000 ; 
+    border-radius: 10px;
+
+    width: 658px;
+    height: 658px;
+    
+    background-color: #6C3483;
+}
+
+.esq_hub{
+    position:relative; 
+    border:05px solid #000000 ; 
+    border-radius: 10px;
+    
+    width: 658px;
+    height: 658px;
+    
+    margin-left: 658px;
+    margin-top: -658px;
+    background-color: #2E4053 ;
+
+}
+
+.cad{
+    position:relative;
+    border:05px solid #ffffff ; 
+    border-radius: 10px;
+    
+    width: 931px;
+    height: 296px;
+    
+    margin: auto;
+    margin-top: 102px;
+    
+   
+}
+.cad .black{
+      position:relative;
+    border:05px solid #000000 ; 
+    border-radius: 10px;
+    
+    width: 931px;
+    height: 296px;
+    
+    margin: auto;
+    margin-top: 102px;
+    
+    background-color: #6C3483;
+}
+
+.cad .nome{
+    position:relative;
+    border:05px solid #000000 ; 
+    border-radius: 10px;
+    
+    width: 197px;
+    height: 83px;
+    
+    left: 2px;
+    top: 9px;
+    font-size: 15px;
+    background-color: #E74C3C;
+}
+
+ .cad .data{
+    position:relative;
+    border:05px solid #000000 ; 
+    border-radius: 10px;
+    
+    width: 152px;
+    height: 77px;
+    
+    left: 200px;
+    bottom: 73px;
+    font-size: 15px;
+    background-color:#3498DB ;
+}
+ .cad .barr{
+    position:relative;
+    border:05px solid #000000 ; 
+    border-radius: 10px;
+    
+    width: 200px;
+    height: 83px;
+    
+    left: 1px;
+    bottom: -35px;
+    background-color: #F4D03F;
+    
+}
+ .cad .time{
+    position: relative;
+    border: 5px solid #000000;
+    border-radius: 10px;
+    
+    width: 142px;
+    height: 80px;
+    
+    left: 203px;
+    bottom: 145px;
+    background-color:#34495E; 
+}
+ .cad .plat{
+    position:relative;
+    border:05px solid #000000 ; 
+    border-radius: 10px;
+    
+    width: 130px;
+    height: 77px;
+    
+    left: 202px;
+    bottom: 134px;
+    background-color: #95A5A6;
+}
+ .cad .reg{
+    position:relative;
+    border:05px solid #000000 ; 
+    border-radius: 10px;
+    
+    width: 86px;
+    height: 78px;
+    
+    left: 353px;
+    bottom: 382px;
+    background-color: #D35400;
+}
+ .cad .dev{
+    position:relative;
+    border:05px solid #000000 ; 
+    border-radius: 10px;
+    
+    width: 201px;
+    height: 82px;
+    
+    left: 1px;
+    bottom: 376px;
+    background-color: #138D75;
+}
+ .cad .faix{
+    position:relative; 
+    border:05px solid #000000 ; 
+    border-radius: 10px;
+    
+    width: 89px;
+    height: 79px;
+    
+    left: 346px;
+    bottom: 456px;
+    background-color: #1ABC9C;
+}
+ .cad .desc{
+    position: relative;
+    border: 5px solid #000000;
+    border-radius: 10px;
+    
+    width: 430px;
+    height: 201px;
+    
+    left: 468px;
+    bottom: 599px;
+    background-color: #515A5A;
+}
+
+.cad .botao{
+        position:relative;
+    left: 351px;
+    bottom: 603px;
+    width: 0px;
+    
+}
+.cad .bo_banc{
+    position: relative;
+    left: 364px;
+    top: -675px;
+    width: 43.141px;
+    height: 24px;
+}
+
+.tabela{
+    position:relative;
+    border:05px solid #ffffff ; 
+    border-radius: 10px;
+    
+    width: 931px;
+    height: 296px;
+    
+    margin: auto;
+    margin-top: 102px; 
+}
+.tabela .banco{
+      position:relative;
+    border:05px solid #000000 ; 
+    border-radius: 10px;
+    
+    width: 931px;
+    height: 296px;
+    
+    margin: auto;
+    margin-top: 102px;
+    background-color: #2E4053 ;
+}

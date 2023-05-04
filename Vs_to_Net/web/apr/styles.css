@@ -1,0 +1,21 @@
+body{
+    font-family: fantasy;
+    font-style: italic;
+    text-align: center;
+    background-color: #bbb5b5;
+    padding: 0;
+    margin: 0;
+}
+h1{
+   color: #ff0404;
+}
+h2{
+   text-align: center; 
+   color: #2f00ff;
+}
+img {
+   max-width: 250px;
+   border:05px solid #ff0000 ; 
+   border-radius: 10px;
+}
+

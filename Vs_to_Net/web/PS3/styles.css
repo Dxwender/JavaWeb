@@ -1,0 +1,45 @@
+body{
+   font-family: fantasy;
+   font-style: italic;
+   text-align: center;
+   background-color: #0025f7;
+   padding: 0;
+   margin: 0;
+}
+h1{
+  bottom: 400px;
+  position: relative;
+  
+  right: 150px;
+  color: #fa0202  
+}
+h2{
+  bottom: 400px;
+  position: relative;
+  
+  right: 150px;
+  color: #fbff04;
+}
+p{
+  bottom: 400px;
+  position: relative;
+  right: 150px;
+  color: #ff0404;
+  color: #000000;
+}
+table{
+  bottom: 400px;
+  position: relative;
+  left: 400px;
+  color: #ff0404;
+  color: #000000;  
+}
+img {
+  top: 50px;
+  position: relative;
+  width: 490px;
+  height: 440px;
+  border:05px solid #000000 ; 
+  left: 400px;
+  border-radius: 10px;
+}
